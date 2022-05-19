@@ -1,0 +1,4 @@
+PassengerNodejs /usr/local/bin/node
+PassengerAppRoot /home/a/aleksbak/practice_2022/backend
+PassengerAppType node
+PassengerStartupFile app.js
