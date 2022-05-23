@@ -2,8 +2,8 @@
 Разработать сайт для редактирования содержимого графовой базы данных Neo4j. Должна быть возможность редактировать информацию, добавлять новые, удалять выбранные узлы и связи.   
 
 ## **<img src="https://user-images.githubusercontent.com/65385933/169242042-08bc663a-bb48-4879-8bb3-5f7028c10d62.png" width="20"> [Доска заданий и обсуждений](https://github.com/VoyakinH/Practice_2022/projects/1)**  
-## **<img src="https://user-images.githubusercontent.com/65385933/169723100-fbfff259-a9ed-4590-bdd3-87f8bc034b0c.png" width="20"> [Neo4j](http://leonidperl.in:7474)**  
-## **<img src="https://user-images.githubusercontent.com/65385933/169723105-32e45c63-63b3-4dcb-862c-2ae8b7493411.png" width="20"> [Frontend](http://leonidperl.in:3002)**  
+## **<img src="https://user-images.githubusercontent.com/65385933/169723100-fbfff259-a9ed-4590-bdd3-87f8bc034b0c.png" width="20"> [Neo4j](http://neo4j.monkeys.team:7474)**  
+## **<img src="https://user-images.githubusercontent.com/65385933/169723105-32e45c63-63b3-4dcb-862c-2ae8b7493411.png" width="20"> [Frontend](http://webgraph.monkeys.team:3002)**  
 
 ## <img src="https://user-images.githubusercontent.com/65385933/169242064-1a25bb70-279a-42c6-88bc-b25f2db6151f.png" width="20"> Участники команды 
 |Марчук А.Т.|Воякин А.Я. (TL)|Леонтьев М.Р.|
