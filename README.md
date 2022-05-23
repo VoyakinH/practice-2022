@@ -1,6 +1,10 @@
 # <img src="https://user-images.githubusercontent.com/65385933/169243529-16dd37a7-b878-452d-8ec4-0ab3c8cb1f0b.png" width="30"> Преддипломная практика МГТУ + ЦНИИмаш 2022
 Разработать сайт для редактирования содержимого графовой базы данных Neo4j. Должна быть возможность редактировать информацию, добавлять новые, удалять выбранные узлы и связи.   
 
+## **<img src="https://user-images.githubusercontent.com/65385933/169242042-08bc663a-bb48-4879-8bb3-5f7028c10d62.png" width="20"> [Доска заданий и обсуждений](https://github.com/VoyakinH/Practice_2022/projects/1)**  
+## **<img src="https://user-images.githubusercontent.com/65385933/169723100-fbfff259-a9ed-4590-bdd3-87f8bc034b0c.png" width="20"> [Neo4j](http://leonidperl.in:7474)**  
+## **<img src="https://user-images.githubusercontent.com/65385933/169723105-32e45c63-63b3-4dcb-862c-2ae8b7493411.png" width="20"> [Frontend](http://leonidperl.in:3002)**  
+
 ## <img src="https://user-images.githubusercontent.com/65385933/169242064-1a25bb70-279a-42c6-88bc-b25f2db6151f.png" width="20"> Участники команды 
 |Марчук А.Т.|Воякин А.Я. (TL)|Леонтьев М.Р.|
 | ------ | ------ | ------ |
@@ -11,8 +15,7 @@
 | ------ | ------ |
 |<img src="https://user-images.githubusercontent.com/65385933/169244546-5f165a1b-b634-45f5-a107-a3438951fd14.jpg" width="250">|<img src="https://user-images.githubusercontent.com/43538711/169105051-be769613-8531-41fc-9a5b-746efeaa6887.jpg" width="250">|
 |*kobivval2001@gmail.com*|*vovchik-lobanov@mail.ru*|
-
-## **<img src="https://user-images.githubusercontent.com/65385933/169242042-08bc663a-bb48-4879-8bb3-5f7028c10d62.png" width="20"> [Доска заданий и обсуждений](https://github.com/VoyakinH/Practice_2022/projects/1)**  
   
 ## <img src="https://user-images.githubusercontent.com/65385933/169533452-4cd1d581-c821-401a-921a-ba0290507be9.png" width="20"> Диаграмма Web интерфейса  
 <img src="https://user-images.githubusercontent.com/65385933/169533143-ec7f53d0-6b03-4aa3-866f-f705c2d57cf6.png" width="700">  
+
