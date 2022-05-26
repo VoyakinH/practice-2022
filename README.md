@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/65385933/169243529-16dd37a7-b878-452d-8ec4-0ab3c8cb1f0b.png" width="30"> Преддипломная практика МГТУ + ЦНИИмаш 2022
+# <img src="https://user-images.githubusercontent.com/65385933/169243529-16dd37a7-b878-452d-8ec4-0ab3c8cb1f0b.png" width="30"> Преддипломная практика МГТУ 2022
 Разработать сайт для редактирования содержимого графовой базы данных Neo4j. Должна быть возможность редактировать информацию, добавлять новые, удалять выбранные узлы и связи.   
 
 ## **<img src="https://user-images.githubusercontent.com/65385933/169242042-08bc663a-bb48-4879-8bb3-5f7028c10d62.png" width="20"> [Доска заданий и обсуждений](https://github.com/VoyakinH/Practice_2022/projects/1)**  
